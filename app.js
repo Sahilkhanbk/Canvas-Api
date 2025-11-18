@@ -8,7 +8,6 @@ const ctx = canvas.getContext("2d");
 
 
 
-
 let paddle = {
     x: 300,
     y: canvas.height - 20,
@@ -130,6 +129,7 @@ function loop() {
 
 
 loop()
+
 
 
 
